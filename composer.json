@@ -28,7 +28,7 @@
         "friendsofphp/php-cs-fixer": "~1.12"
     },
     "autoload": {
-        "psr-4": { "Infoplus\\" : "lib/" }
+        "psr-4": { "Infoplus\\" : "Infoplus/" }
     },
     "autoload-dev": {
         "psr-4": { "Infoplus\\" : "test/" }
